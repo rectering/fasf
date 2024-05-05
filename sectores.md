@@ -1,8 +1,4 @@
-## Industria Farmaceutica
-
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
+##SECTORES
 | SECTORES | SERVICIO |
 | ------ | ------ |
 | Farmacéutica Tradicional | Fabrica medicamentos a base de moléculas químicas o naturales, incluyendo medicamentos recetados, de venta libre y genéricos. |
