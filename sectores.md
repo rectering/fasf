@@ -1,4 +1,4 @@
-##SECTORES
+## SECTORES
 | SECTORES | SERVICIO |
 | ------ | ------ |
 | Farmacéutica Tradicional | Fabrica medicamentos a base de moléculas químicas o naturales, incluyendo medicamentos recetados, de venta libre y genéricos. |
